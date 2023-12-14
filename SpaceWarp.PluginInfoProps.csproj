@@ -3,7 +3,6 @@
         <PackageId>SpaceWarp.PluginInfoProps</PackageId>
         <Version>1.0.0</Version>
         <Authors>munix</Authors>
-        <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
         <Description>Helper build target that generates a MyPluginInfo class based on assembly metadata.</Description>
         <PackageTags>spacewarp;ksp2;build;props</PackageTags>
