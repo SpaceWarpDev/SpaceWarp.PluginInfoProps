@@ -10,6 +10,9 @@
             <GeneratedText><![CDATA[
 namespace $(RootNamespace)
 {
+    /// <summary>
+    /// Automatically generated information about the plugin.
+    /// </summary>
     public static class MyPluginInfo
     {
         /// <summary>
